@@ -66,7 +66,7 @@ Currently building backend-driven products focused on file transfer, user workfl
 
 ## 📄 Resume
 
-🔗 [https://github.com/sk7dixit/resume]https://raw.githubusercontent.com/sk7dixit/resume/main/Shashwat_Dixit_Resume.pdf
+🔗 https://raw.githubusercontent.com/sk7dixit/resume/main/Shashwat_Dixit_Resume.pdf
 
 
 ---
